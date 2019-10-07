@@ -1,0 +1,12 @@
+
+'Election Results'
+'----------------------------------'
+'Total Votes: 3521001'
+'----------------------------------'  
+'Candidate Votes: Khan 2218231 63.0%'
+'Candidate Votes: Correy 704200 20.0%'
+'Candidate Votes: Li 492940 14.0%'
+'Candidate Votes: O'Tooley 105630 3.0%'
+
+'----------------------------------'
+'Winner: Khan'
